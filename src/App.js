@@ -1,5 +1,5 @@
 import React from 'react'
-import Final from './tutorial/3-conditional-rendering/final/2-short-circuit'
+import Final from './tutorial/3-conditional-rendering/final/3-show-hide'
 
 function App() {
   return (
